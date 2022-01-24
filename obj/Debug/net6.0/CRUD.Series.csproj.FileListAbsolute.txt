@@ -1,0 +1,15 @@
+C:\Users\Jobs\Desktop\CRUD.Series\bin\Debug\net6.0\CRUD.Series.exe
+C:\Users\Jobs\Desktop\CRUD.Series\bin\Debug\net6.0\CRUD.Series.deps.json
+C:\Users\Jobs\Desktop\CRUD.Series\bin\Debug\net6.0\CRUD.Series.runtimeconfig.json
+C:\Users\Jobs\Desktop\CRUD.Series\bin\Debug\net6.0\CRUD.Series.dll
+C:\Users\Jobs\Desktop\CRUD.Series\bin\Debug\net6.0\ref\CRUD.Series.dll
+C:\Users\Jobs\Desktop\CRUD.Series\bin\Debug\net6.0\CRUD.Series.pdb
+C:\Users\Jobs\Desktop\CRUD.Series\obj\Debug\net6.0\CRUD.Series.csproj.AssemblyReference.cache
+C:\Users\Jobs\Desktop\CRUD.Series\obj\Debug\net6.0\CRUD.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jobs\Desktop\CRUD.Series\obj\Debug\net6.0\CRUD.Series.AssemblyInfoInputs.cache
+C:\Users\Jobs\Desktop\CRUD.Series\obj\Debug\net6.0\CRUD.Series.AssemblyInfo.cs
+C:\Users\Jobs\Desktop\CRUD.Series\obj\Debug\net6.0\CRUD.Series.csproj.CoreCompileInputs.cache
+C:\Users\Jobs\Desktop\CRUD.Series\obj\Debug\net6.0\CRUD.Series.dll
+C:\Users\Jobs\Desktop\CRUD.Series\obj\Debug\net6.0\ref\CRUD.Series.dll
+C:\Users\Jobs\Desktop\CRUD.Series\obj\Debug\net6.0\CRUD.Series.pdb
+C:\Users\Jobs\Desktop\CRUD.Series\obj\Debug\net6.0\CRUD.Series.genruntimeconfig.cache
